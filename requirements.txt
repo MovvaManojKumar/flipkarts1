@@ -1,7 +1,8 @@
-﻿streamlit
+streamlit
 opencv-python
 torch
 paddleocr
+paddlepaddle
 tensorflow
 numpy
 pillow
